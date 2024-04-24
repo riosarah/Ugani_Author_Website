@@ -13,4 +13,4 @@
 | AW012 | 1    | As a reader, I want to see the author's recent works.                                | Display the author's recent publications on the author subpage.                     |   2    |
 | AW013 | 1    | As the product owner, I want a rudimentary homepage framework implemented.            | Develop and deploy a basic framework for the homepage with placeholders for content and navigation elements. |    3   |
 | AW014 | 1    | As the product owner, I want info boxes created for planned content.                  | Design and implement info boxes within the homepage layout for showcasing planned content.                  |    2    |
-| AW015 | 1    | As the product owner, I want the necessary space allocated for each info box.         | Ensure sufficient space within the homepage layout to accommodate the planned content in each info box.      |        |
+| AW015 | 1    | As the product owner, I want the necessary space allocated for each info box.         | Ensure sufficient space within the homepage layout to accommodate the planned content in each info box.      |    1    |
