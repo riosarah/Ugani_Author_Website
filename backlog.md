@@ -1,9 +1,16 @@
-
-| ID     | Prio    | User Story    | COS (Criteria of Satisfaction) | Effort |
-| ------- | -------- | -------------- | ------------------------------ | ---- |
-| AW01   | 1 | As a reader i want to read more information on the author and the book | Informational text on book, author, videos and audio on book locations and involved parties. |   |
-| AW02 | 3 | As the user i want to be able to contact the author | Abbility to contact directly via the website via contact form. Contact form only goes through if all necessary fields have been filed. |   |
-| AW03 | 1 | As the user i want to navigate the site effortlessly and find relevant information easily | Links and navigation bar direct to relevant parts of the site.
-Links to subpages. By clicking on book you navigate to book page. |   |
-| AW04 | 3 | As the user i want to get a good impression on the book topics and themes | Design scematics revolve around book themes. Well-structured information sections enhance the readability of the website. |   |
-| AW05 | 2 | As the buyer i want to be able to buy the book | Links to bookhouses, publishing house, booksellers |   |
+| ID   | Prio | User Story                                                   | COS (Criteria of Satisfaction)                                                      | Effort |
+| ---- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------ |
+| AW02 | 3    | As a user, I want to be able to contact the author.          | Ability to contact directly via the website using a contact form. Form submission only proceeds if all necessary fields are filled. |    5   |
+| AW03 | 1    | As a user, I want to navigate the site effortlessly.         | Links and navigation bar direct to relevant parts of the site. Subpages for the book and author are clearly marked and visible. |    3   |
+| AW04 | 3    | As a user, I want to get a good impression of the book themes. | Design scheme revolves around book themes. Color schemes are inspired by the savanna, and rustic style elements evoke the feeling of village-based simple life. Well-structured information sections enhance website readability. |    2   |
+| AW05 | 2    | As a buyer, I want to be able to buy the book.               | Links to bookstores, publishing houses, and booksellers are provided at the bottom of the "Book" subpage. |    2   |
+| AW06 | 3    | As a user, I want to navigate to information on the book and author by clicking on their pictures. | Clicking on the book navigates to the book page, and clicking on the author's picture navigates to the author subpage. |    5   |
+| AW07 | 2    | As a user, I want to read more information about the book.   | The following information can be found on the "Book" subpage: Synopsis, excerpts, information on book locations, and involved parties. |    5   |
+| AW08 | 4    | As a user, I want to get a good impression of the book locations and historical environment. | Pictures, audio, and video materials are included on the book subpage. |    8   |
+| AW09 | 1    | As the product owner, I want to see sketches of the homepage layout.                           | Provide sketches illustrating the proposed layout of the homepage.                                           |    1   |
+| AW010 | 1    | As a reader, I want to access the author's biography.                                | Ensure that the author's biography is prominently displayed on the author subpage.  |    2   |
+| AW011 | 1    | As a reader, I want to read a sample of the author's writing.                        | Provide a section on the author subpage containing a sample of the author's work.   |    1   |
+| AW012 | 1    | As a reader, I want to see the author's recent works.                                | Display the author's recent publications on the author subpage.                     |   2    |
+| AW013 | 1    | As the product owner, I want a rudimentary homepage framework implemented.            | Develop and deploy a basic framework for the homepage with placeholders for content and navigation elements. |    3   |
+| AW014 | 1    | As the product owner, I want info boxes created for planned content.                  | Design and implement info boxes within the homepage layout for showcasing planned content.                  |    2    |
+| AW015 | 1    | As the product owner, I want the necessary space allocated for each info box.         | Ensure sufficient space within the homepage layout to accommodate the planned content in each info box.      |        |
