@@ -1,7 +1,7 @@
 
 | ID   | Prio | User Story | COS (Criteria of Satisfaction) | Effort |
 |------|------|------------|--------------------------------|--------|
-| AW01 | 1    | As the product owner, I want to see sketches of the homepage layout, to get a feeling for the planned design. | Provide sketches illustrating the proposed layout of the homepage. | 1      |
+| AW01 | 1    | As the product owner, I want to see sketches of the homepage layout, to get a feeling for the planned design. | Provide sketches illustrating the proposed layout of the author homepage. | 1      |
 | AW02 | 3    | As a user, I want to get a good impression of the book themes by looking at the website. | The preliminary design scheme revolves around book themes, such as: Color schemes are inspired by the savanna, and rustic style elements evoke the feeling of african village-based simple life. Well-structured planned information sections in the website prototype design enhance website readability of the final product. | 2      |
 | AW03 | 1    | As the product owner, I want a rudimentary homepage framework implemented to get a first impression of the project trajectory. | Develop and deploy a basic framework for the homepage with placeholders for content and navigation elements. | 3      |
 | AW04 | 3    | As the product owner, I want info boxes created for planned content in order to assess the project scope. | Info boxes have been designed and implemented within the homepage layout for showcasing planned content. | 2      |
