@@ -19,3 +19,5 @@
 | AW16 | 3    | As a user, I want to read a sample of the author's writing to get a taste of their writing style. | Provide a section on the author subpage containing a sample of the author's work. | 1      |
 | AW17 | 1    | As a user, I want to see the author's recent work and to find more information on them. | Display the author's recent publication on the author subpage. Provide allocated space for any future publications by making room for additional box grid elements for book links. | 2      |
 | AW18 | 4    | As the product owner i want the links to involve hover elements and animations. | The picture of the closed book turns into an open book, when the cursor hovers over it. The Picture of the author starts to glow, when moving the cursor over it. | 5    |
+| AW19 | 4    | As the user i want my attention to be captured when reading about the author and not waver because of uninterupted text | All text elements on the author are switched up with picture elements. The pictures are animated, to capture attention and help with reader focus. | 5    |
+
