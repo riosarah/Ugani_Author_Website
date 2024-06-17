@@ -1,3 +1,4 @@
 Projektarbeit_UGANI.zip filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
 UGANIProjekt.zip filter=lfs diff=lfs merge=lfs -text
+presentationUGANI.pptx filter=lfs diff=lfs merge=lfs -text
