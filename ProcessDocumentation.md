@@ -20,3 +20,5 @@
 | AW16     | 1         | 3    | 1h              | 0                                                                                                            |
 | AW17     | 2         | 1    | 3h        |                                                                                                              |
 | AW18     | 5         | 4    | 15h   | Aditional links have been included. Design of hover elements and animation takes longer, as it is a work of love |
+
+**Total Actual Time: 104.5 hours**
