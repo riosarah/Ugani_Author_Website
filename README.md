@@ -18,3 +18,9 @@ Join Timna on her journey as she shares her perspective on childhood, faith, and
 - [PROJECT PROPOSAL](https://github.com/riosarah/Ugani_Author_Website/blob/main/ProjectProposal_Rio.pdf)
 
 - [PRODUCT BACKLOG](https://github.com/riosarah/Ugani_Author_Website/blob/main/backlog.md)
+  
+- [PROCESS DOCUMENTATION](https://github.com/riosarah/Ugani_Author_Website/blob/main/ProcessDocumentation.md)
+  
+- [FINAL PROJECT CODE FILES](https://github.com/riosarah/Ugani_Author_Website/blob/main/UGANIProjekt.zip)
+  
+- [PROJECT PRESENATION](https://github.com/riosarah/Ugani_Author_Website/blob/main/presentationUGANI.pptx)
